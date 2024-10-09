@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\apapa\apapa\bin\Debug\net8.0\apapa.exe
+C:\Users\lenovo\source\repos\apapa\apapa\bin\Debug\net8.0\apapa.deps.json
+C:\Users\lenovo\source\repos\apapa\apapa\bin\Debug\net8.0\apapa.runtimeconfig.json
+C:\Users\lenovo\source\repos\apapa\apapa\bin\Debug\net8.0\apapa.dll
+C:\Users\lenovo\source\repos\apapa\apapa\bin\Debug\net8.0\apapa.pdb
+C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\apapa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\apapa.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\apapa.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\apapa.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\apapa.dll
+C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\refint\apapa.dll
+C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\apapa.pdb
+C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\apapa.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\ref\apapa.dll
