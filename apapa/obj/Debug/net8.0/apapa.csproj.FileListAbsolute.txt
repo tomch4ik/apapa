@@ -12,3 +12,4 @@ C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\refint\apapa.dll
 C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\apapa.pdb
 C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\apapa.genruntimeconfig.cache
 C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\ref\apapa.dll
+C:\Users\lenovo\source\repos\apapa\apapa\obj\Debug\net8.0\apapa.sourcelink.json
